@@ -194,7 +194,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "http://mbdav.in/MyImages/LOGO.png",
+    img: "../dav.jpg",
     school: "M. B. DAV PUBLIC SCHOOL",
     date: "Apr 2020 - July 2022",
     grade: "80%",
@@ -203,7 +203,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "http://mbdav.in/MyImages/LOGO.png",
+    img: "../dav.jpg",
     school: "M. B. DAV PUBLIC SCHOOL",
     date: "Apr 2018 - Apr 2020",
     grade: "85%",
